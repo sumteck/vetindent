@@ -1,0 +1,23 @@
+{
+  "name": "VetIndent - Veterinary Hospital Indent Maker",
+  "short_name": "VetIndent",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f9f9",
+  "theme_color": "#006b6b",
+  "description": "Veterinary Hospital Indent Maker for calculating and generating medicine indents.",
+  "icons": [
+    {
+      "src": "https://vetindent.sumteck.in/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://vetindent.sumteck.in/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
